@@ -5,5 +5,9 @@
 package testGit;
 
 public class TestGit {
-	private String gitFromScratch;
+	public TestGit(String parameter) {
+		// TODO Auto-generated constructor stub
+	}
+
+	protected String gitFromScratch;
 }
